@@ -1,0 +1,86 @@
+--- images/lemh101_page_1.png ---
+see Chapter | I
+
+12075CHO}
+
+RELATIONS AND FUNCTIONS
+
+“¢ There is no permanent place in the world for ugly mathematics ... . It may
+be very hard to define mathematical beauty but that is just as true of
+beauty of any kind, we may not know quite what we mean by a
+beautiful poem, but that does not prevent us from recognising
+one when we read it. — G. H. HARDY %
+
+1.1 Introduction
+
+Recall that the notion of relations and functions, domain,
+co-domain and range have been introduced in Class XI
+along with different types of specific real valued functions
+and their graphs. The concept of the term ‘relation’ in
+mathematics has been drawn from the meaning of relation
+in English language, according to which two objects or
+quantities are related if there is a recognisable connection
+or link between the two objects or quantities. Let A be
+the set of students of Class XII of a school and B be the
+set of students of Class XI of the same school. Then some
+of the examples of relations from A to B are
+
+(i) {(a, 6) € AX B: a is brother of b}, Lejeune Dirichlet
+(i) {(a, b) € Ax B: ais sister of b}, (1805-1859)
+(ii) {(a, b) € A x B: age of a is greater than age of 5},
+(iv) {(a, b) € A x B: total marks obtained by a in the final examination is less than
+the total marks obtained by 4 in the final examination},
+(v) {(a, b) ¢ A B: a lives in the same locality as b}. However, abstracting from
+this, we define mathematically a relation R from A to B as an arbitrary subset
+of Ax B.
+If (a, b) € R, we say that a is related to 6 under the relation R and we write as
+a R b. In general, (a, b) € R, we do not bother whether there is a recognisable
+connection or link between a and b. As seen in Class XI, functions are special kind of
+relations.
+
+--- images/lemh101_page_2.png ---
+1.2 Types of Relations
+
+In this section, we would like to study different types of relations. We know that a
+relation in a set A is a subset of A x A. Thus, the empty set @ and A x A are two
+extreme relations. For illustration, consider a relation R in the set A= {1, 2, 3, 4} given by
+R= {(a, b): a— b= 10}. This is the empty set, as no pair (a, b) satisfies the condition
+a—b=10. Similarly, R’ = {(a, b) : | a—b | 2 0} is the whole set A x A, as all pairs
+(a, b) in A x A satisfy | a — b | = 0. These two extreme examples lead us to the
+following definitions.
+
+Definition 1 A relation R in a set A is called empty relation, if no element of A is
+related to any element of A,ie., R=@CAXA.
+
+Definition 2 A relation R ina set A is called universal relation, if each element of A
+is related to every element of A, i.e, R=AXA.
+
+Both the empty relation and the universal relation are some times called trivial
+relations.
+
+Example 1 Let A be the set of all students of a boys school. Show that the relation R
+in A given by R= {(a, 5) : ais sister of b} is the empty relation and R’ = {(a, b) : the
+difference between heights of a and b is less than 3 meters} is the universal relation.
+Solution Since the school is boys school, no student of the school can be sister of any
+student of the school. Hence, R = , showing that R is the empty relation. It is also
+
+obvious that the difference between heights of any two students of the school has to be
+less than 3 meters. This shows that R’ = A x A is the universal relation.
+
+Remark In Class XI, we have seen two ways of representing a relation, namely raster
+method and set builder method. However, a relation R in the set {1, 2,3, 4} defined by R
+= {(a, b) : b = a + 1} is also expressed as a R 6b if and only if
+b=a +1 by many authors. We may also use this notation, as and when convenient.
+
+If (a, b) € R, we say that a is related to b and we denote it as a R b.
+
+One of the most important relation, which plays a significant role in Mathematics,
+is an equivalence relation. To study equivalence relation, we first consider three
+types of relations, namely reflexive, symmetric and transitive.
+
+Definition 3 A relation R in a set A is called
+(i) reflexive, if (a, a) € R, for every ae A,
+(ii) symmetric, if (a,, a,) € R implies that (a,, a,) € R, for all a,,a, € A.
+
+(ili) transitive, if (a,, a,) € Rand (a,, a,) € R implies that (a,, a,) € R, for alla,,a,,
+

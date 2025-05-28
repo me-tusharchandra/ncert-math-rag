@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "03424119-063e-48df-bd31-e7802177c2cd",
+    "chunk": "## RELATIONS AND FUNCTIONS\n\nThere is no permanent place in the world for ugly mathematis. ... . $x_{t}$ may be very hard to define mathematical beauty but that is just as true of\nbeauty of any kind, we may not know quite what we mean by a\nbeautiful poem, but that does not prevent us from recognising\none when we read it. $- G$ . H. HARDY",
+    "figures": []
+  },
+  {
+    "chunk_id": "370f61a4-4a3e-48fe-9168-63218e0040a7",
+    "chunk": "(i） $\\{( a, b ) \\in\\mathrm{A} \\times\\mathrm{B} \\colon a$ is brother of $b \\}$ , Leseune Dirichlet i $\\{( a, b ) \\in\\mathrm{A} \\times\\mathrm{B} \\colon a$ is sister $\\mathrm{o f ~} b \\}$ , (1805-1859)\n(ill） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : age of ${\\it a}$ is greater than age of $b \\}$ ,\n(iv） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : total marks obtained by ${\\it a}$ in the final examination is less than\nthe total marks obtained by $\\it b$ in the final examination},\n $\\{( a, b ) \\in\\mathrm{A} \\times\\mathrm{B} \\colon a$ lives in the same locality as $b \\}$ . However, abstracting from\nthis, we define mathematically a relation $\\mathtt{R}$ from $\\mathrm{A}$ to $\\mathrm{B}$ as an arbitrary subset\nof $\\mathrm{A} \\times\\mathrm{B}$ .\n\n(iv） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : total marks obtained by ${}^{a}$ in the final examination is less than the total marks obtained 7 $\\it b$ in the final examination\nby",
+    "figures": []
+  },
+  {
+    "chunk_id": "f4eaaf00-d4c0-459a-b991-656db4b57d74",
+    "chunk": "(iv） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : total marks obtained by ${}^{a}$ in the final examination is less than the total marks obtained 7 $\\it b$ in the final examination\nby\n\n(v） $\\{( a, b ) \\in\\mathrm{A} \\times\\mathrm{B} \\colon a$ lives in the same locality as $b \\}$ . However, abstracting from this, we define mathematically a relation $\\mathrm{\\mathrm{R}}$ from A to $\\mathrm{B}$ as an arbitrary subset of $\\mathrm{A} \\times\\mathrm{B}$ \n\n $\\mathrm{I f} \\left( a, \\, b \\right) \\in\\mathrm{R}$ , we say that ${\\it a}$ is related to $\\it b$ under the relation $\\mathtt{R}$ and we write as a $\\textrm{R} b$ . In general, $( a, \\, b ) \\in\\mathrm{R}$ , we do not bother whether there is a recognisable connection or link between ${\\it a}$ and $\\it b$ . As seen in Class XI, functions are special kind of relations.\n\nIn this chapter, we willstudy different types of relations and functions, composition of functions, invertible functions and binary operations.\n\n## 1.1 Introduction",
+    "figures": []
+  },
+  {
+    "chunk_id": "274436e9-e47b-4d14-b5a0-d76143e26714",
+    "chunk": "In this chapter, we willstudy different types of relations and functions, composition of functions, invertible functions and binary operations.\n\n## 1.1 Introduction\n\nRecall that the notion of relations and functions, domain, co-domain and range have been introduced in Class XI along with different types of specific real valued functions and their graphs. The concept of the term relation' in mathematics has been drawn from the meaning of relation in English language, according to which two objects or quantities are related if there is a recognisable connection or link between the two objects or quantities. Let A be the set of students of Class XII of a school and B be the set of students of Class XI of the same school. Then some of the examples of relations from $\\mathrm{A ~ t o ~ B}$ arc\n\n(i） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : age of ${\\it a}$ is gratrtan ge $\\mathrm{o f ~} b \\}$ .\n\n![](figures/0-10-FIGURE.jpg)",
+    "figures": [
+      "figures/0-10-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "89bd9571-63ba-4fb7-a978-fa02eeb8e90a",
+    "chunk": "(i） $\\{( a, \\, b ) \\in\\mathrm{A} \\times\\mathrm{B}$ : age of ${\\it a}$ is gratrtan ge $\\mathrm{o f ~} b \\}$ .\n\n![](figures/0-10-FIGURE.jpg)\n\n$$\n\\begin{array} {c} {\\mathrm{L e j e u n e ~ D i r i c h l e t}} \\\\ {( 1 8 0 5-1 8 5 9 )} \\\\ \\end{array}\n$$\n\n## 1.2 Types of Relations",
+    "figures": [
+      "figures/0-10-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "1153df5c-932e-40a4-a3f9-19d2e7a1883e",
+    "chunk": "![](figures/0-10-FIGURE.jpg)\n\n$$\n\\begin{array} {c} {\\mathrm{L e j e u n e ~ D i r i c h l e t}} \\\\ {( 1 8 0 5-1 8 5 9 )} \\\\ \\end{array}\n$$\n\n## 1.2 Types of Relations\n\nIn this section, we would like to study different types of relations. We know that a relation in a set $\\mathrm{A}$ is a subset of $\\mathrm{A} \\times\\mathrm{A}$ . Thus, the empty set $\\Phi$ and $\\mathrm{A} \\times\\mathrm{A}$ are two extreme relations. For illustration, consider a relation $\\mathtt{R}$ in the set $\\mathrm{A}=\\{1, 2, 3, 4 \\}$ given by\n$$\n\\mathrm{R}=\\{( a, b ) ; a-b=1 0 \\}\n$$\n. This is the empty set, as no pair $( a, b )$ satisfies the condition\n $a-b=1 0$ . Similarly, $\\mathbf{R}^{\\prime}=\\{( a, \\, b ) : \\mid a-b \\mid\\geq0 \\}$ is the whole set $\\mathrm{A} \\times\\mathrm{A}$ , as all pairs $( a, \\, b )$ in $\\mathrm{A} \\times\\mathrm{A}$ satisfy $a-b \\mid\\geq0$ . These two extreme examples lead us to the following definitions.",
+    "figures": [
+      "figures/0-10-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "9629c157-0d24-4201-90df-d6ac7e20e033",
+    "chunk": "Definition 1 A relation $\\mathtt{R}$ in set A is called empty relation, if no element of A is related to any element of $\\mathrm{A}$ , i., $\\mathrm{R}=\\phi\\subset\\mathrm{A} \\times\\mathrm{A}.$ \n\nDefinition $2$ A relation R in a set $\\mathrm{A}$ is called universal relation, if each element of A is related to every element of A, i.e., $\\mathrm{R}=\\mathrm{A} \\times\\mathrm{A}$ .\n\nBoth the empty relation and the universal relation are some times called trivial relations.\n\nExample 1 Let A be the set of all students of a boys school. Show that the relation $\\mathtt{R}$ in A given by $\\mathrm{~ R}=\\{( a, b )$ : ${\\it a}$ is sister of $b \\}$ is the empty relation and $\\mathbf{R}^{\\prime}=\\{( a, b )$ : the difference between heights of ${\\it a}$ and $\\it b$ is less than 3 meters} is the universal relation",
+    "figures": []
+  },
+  {
+    "chunk_id": "2513afa7-746c-46df-9917-b3b8b6347cd2",
+    "chunk": "Solution Since the school is boys school, no student of the school can be sister of any student of the school. Hence, $\\mathbf{R}=\\phi,$  showing that R is the empty relation. It is also obvious that the difference between heights of any two students of the school has to be less than ${}_{3}$ meters. This shows that $\\mathbf{R}^{\\prime}=\\mathbf{A} \\times\\mathbf{A}$ is the universal relation.\n\nRemark In Class XI, we have seen two ways of representing a relation, namely raster\n $\\{1, 2, 3, 4 \\}$ defined by R method and set builder method. However, a relation R in the set\n $= ~ \\{( a, ~ b ) ~ : ~ b ~=~ a ~+~ 1 \\}$ is also expressed as ${\\it a}$  $\\mathtt{R}$  $\\it b$ if and only if $b=a+1$ by many authors. We may also use this notation, as and when convenient\n\n $\\mathrm{I f \\,} ( a, b ) \\in\\mathbb{R}$ , we say that ${\\it a}$ is related to $\\it b$ and we denote it as $a \\textrm{r r e} b$ .",
+    "figures": []
+  },
+  {
+    "chunk_id": "30fdd8bd-4590-47b8-89d1-48c0503930aa",
+    "chunk": "$\\mathrm{I f \\,} ( a, b ) \\in\\mathbb{R}$ , we say that ${\\it a}$ is related to $\\it b$ and we denote it as $a \\textrm{r r e} b$ .\n\nOne of the most important relation, which plays a significant role in Mathematics, is an equivalence relation. To study equivalence relation, we first consider three types of relations, namely reflexive, symmetric and transitive\n\nDefinition 3 A relation R in a set A is called\n\n(i)reflexive, $\\mathrm{i f ~} ( a, \\, a ) \\in\\mathbb{R}$ ,for every $a \\in\\mathrm{A}$ .\n(in symmetric, if $( a_{1}, a_{2} ) \\in\\mathrm{R}$ implies that $( a_{2}, \\, a_{1} ) \\in\\mathbb{R}$ for al $a_{1}, \\, a_{2} \\in\\mathrm{A}.$ \n(iitrasitie,i $\\mathrm{f} \\left( a_{1}, a_{2} \\right) \\in\\mathrm{R}$ and $( a_{2}, a_{3} ) \\in\\mathbb{R}$ implies that $( a_{1}, a_{3} ) \\in\\mathrm{R}$ foral $a_{1}, a_{2},$ \n $a_{3} \\in\\mathrm{A}$ .\n\nDefinition $4 \\mathrm{~ A}$ relation $\\mathtt{R}$ in a set $\\mathrm{A}$ is said to be an equivalence relation if R is reflexive, symmetric and transitive.",
+    "figures": []
+  },
+  {
+    "chunk_id": "5ae2feab-8284-4ffd-b15f-3d9c281b74ea",
+    "chunk": "Definition $4 \\mathrm{~ A}$ relation $\\mathtt{R}$ in a set $\\mathrm{A}$ is said to be an equivalence relation if R is reflexive, symmetric and transitive.\n\nExample $2$ Let $\\mathrm{T}$ be the set of all triangles in a plane with $\\mathtt{R}$ a relation in $\\mathrm{T}$ given by $\\mathrm{R}=\\{( \\mathrm{T}_{\\sb1}, \\mathrm{T}_{\\sb2} ) : \\mathrm{T}_{\\sb1}$ is congruent to $\\mathrm{T}_{2} \\}$ . Show tht R is an equivalence relation.",
+    "figures": []
+  },
+  {
+    "chunk_id": "ddbcd5e0-cd1e-45c7-b76d-bec327e77629",
+    "chunk": "Solution $\\mathtt{R}$ is reflexive, since every triangle is congruent to itself. Further $\\mathrm{\\mathrm{R}}$ is symetric. Mreover, 5 $( \\mathrm{T}_{1}, \\, \\mathrm{T}_{2} ), \\, ( \\mathrm{T}_{2}, \\, \\mathrm{T}_{3} ) \\in\\mathrm{R} \\Rightarrow\\mathrm{T}_{1}$ MedNe $\\mathtt{R}$  $\\mathrm{T}_{1} \\Rightarrow( \\mathrm{T}_{2}, \\mathrm{T}_{1} ) \\in\\mathrm{R}$  $\\mathrm{T}_{2}$ , and $\\mathrm{T_{2}}$ 1S $( \\mathrm{T}_{\\i}, \\mathrm{T}_{\\i} ) \\in\\mathrm{R} \\Rightarrow\\mathrm{T}_{\\i}$ is congruent to $\\mathrm{T}_{2} \\Rightarrow\\mathrm{T}_{2}$ is congruent to . Hence\ncongruent to\ncongruent to $\\mathrm{T_{3} \\Rightarrow T_{1}}$ is congruent to $\\mathrm{T_{3}} \\Rightarrow( \\mathrm{T}_{\\sb1}, \\mathrm{T}_{\\it3} ) \\in\\mathrm{R}.$ is an equivalence relation.",
+    "figures": []
+  },
+  {
+    "chunk_id": "65dfead7-7a13-4068-bbb7-9051ac596dc6",
+    "chunk": "Example 3 Let L be the set of all lines in a plane and R be the relation in $\\mathrm{L}$ defined as $\\mathrm{\\boldmath~ R ~}=\\{( \\mathrm{L}_{\\sb1}, \\mathrm{~ L}_{\\sb2} ) : \\mathrm{~ L}_{\\sb1}$ is perpendicular to $\\mathrm{L}_{2}^{\\vphantom{\\rho}} \\}$ . Show that $\\mathrm{\\mathrm{R}}$ is symmetric but neither reflexive nor transitive.\n\nSolution $\\mathtt{R}$ is not reflexive, as a line $\\mathbf{L}_{1}$ can not be perpenducuar toisl, i., $( \\mathrm{L}_{\\i}, \\mathrm{L}_{\\i} )$ e R. R is symmetric as $( \\mathrm{L}_{1}, \\mathrm{L}_{2} ) \\in\\mathrm{R}$ -L,\n\n![](figures/2-5-FIGURE.jpg)\n\n→ $\\mathrm{L}_{\\i}$ is perpendicular to 2 → $\\mathrm{L}_{2}$ is perpendicular $\\mathrm{t o ~ L}_{\\i}$ =→ (, L) e R\n\n$$\n\\mathrm{L_{1} ~ i s ~ p e r p e n d i c u l a r ~ t o ~ L_{2} ~}\n$$\n\n$$\n\\mathrm{L_{2} ~ i s ~ p e r p e n d i c u l a r ~ t o ~ L_{1} ~}\n$$\n\n$$\n( \\mathrm{L}_{2}, \\mathrm{L}_{1} ) \\in\\mathrm{R}.\n$$",
+    "figures": [
+      "figures/2-5-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "7ee8b4b7-9b19-4341-be07-c182e52d4991",
+    "chunk": "$$\n\\mathrm{L_{2} ~ i s ~ p e r p e n d i c u l a r ~ t o ~ L_{1} ~}\n$$\n\n$$\n( \\mathrm{L}_{2}, \\mathrm{L}_{1} ) \\in\\mathrm{R}.\n$$\n\nR is not transitive. Indeed, if L, is perpendicular to $\\mathrm{L}_{2}$ and is perpendicular to ${\\bf L}_{{}_{3}},$ then $\\mathrm{L}_{1}$ can never be perpendicuar to\n\n$$\n\\mathrm{F i g \\ 1. 1}\n$$\n\nin fact, $\\mathbf{L}_{\\mathrm{1}}$ is al to\n$$\n\\mathrm{~ L_{3} ~}, \\mathrm{~ i. e., ~} ( \\mathrm{~ L_{\\sb1} ~}, \\mathrm{~ L_{\\sb2} ~} ) \\in\\mathrm{~ R ~}, \\mathrm{~ ( L_{\\sb2} ~}, \\mathrm{~ L_{\\sb3} ) ~} \\in\\mathrm{~ R ~ b u t ~} ( \\mathrm{~ L_{\\sb1} ~}, \\mathrm{~ L_{\\sb3} ~} ) \\notin\\mathrm{~ I}\n$$\n\ne $\\angle$ Show that the relation R in the set $\\{1, 2, 3 \\}$ given by $\\mathrm{R}=\\{( 1, \\, 1 ), \\, ( 2, \\, 2 ),$ Example\n $( 3, 3 ), ( 1, 2 ), ( 2, 3 ) \\}$ is reflexive but neither symmetric nor transitive",
+    "figures": []
+  },
+  {
+    "chunk_id": "5f005615-99e5-43fc-838e-44b4ce8dec66",
+    "chunk": "Solution $\\mathrm{\\mathrm{R}}$ is reflexive, since $( 1, 1 ), ( 2, 2 )$ and 3,3) lie in $\\mathtt{R}$ . Also, Ris notsmetric, as $( 1, 2 ) \\in\\mathrm{R}$ but (2, 1) g R. Similarly, R is not transitive, as $( 1, 2 ) \\in\\mathrm{R}$ and $( 2, 3 ) \\in\\mathrm{R}$ but $( 1, 3 ) \\notin\\mathrm{R}$ .\n\nExample s Sho wtat the relation $\\mathrm{\\mathrm{R}}$ in the set ${\\bf Z}$ of integers given by\n\n$$\n\\mathrm{R}=\\{( a, \\, b ) : 2 \\mathrm{~ d i v i d e s ~} a-b \\}\n$$\n\n$$\n\\mathrm{i s ~ a n ~ e q u i v a l e n c e ~ r e l a t i o n.}\n$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "9cc222f9-2df4-4b42-9f64-b1e0f08b266d",
+    "chunk": "$$\n\\mathrm{R}=\\{( a, \\, b ) : 2 \\mathrm{~ d i v i d e s ~} a-b \\}\n$$\n\n$$\n\\mathrm{i s ~ a n ~ e q u i v a l e n c e ~ r e l a t i o n.}\n$$\n\nSolution $\\mathtt{R}$ is reflexive, as $2$ divides $( a-a )$ for all $a \\in{\\bf Z}$ . Further, i $( a, \\, b ) \\in\\mathbb{R},$ then $2$ divides $a-b$ . Therefore, $2$ divides $b-a$ . Hence, $( b, a ) \\in\\mathbb{R}$ , which shows that $\\mathtt{R}$ is symmetric. Similarly, if $( a, b ) \\in\\mathbb{R}$  $( b, c ) \\in\\mathbb{R}$ , then $a-b$ and $b-c$ are divisible by\nand\n $2$ . Now, $a-c=( a-b )+( b-c )$ is even (Why?). So, $( a-c )$ is divisible by ${}_{2}$ . This shows that $\\mathtt{R}$ is transitive. Thus, R is an cquivalence relation in ${\\bf Z}$ -",
+    "figures": []
+  },
+  {
+    "chunk_id": "1f621f21-d160-4b48-8cdd-2e6f70fc2090",
+    "chunk": "In Example ${}_{5}$ , note that all even integers are related to zero, as $( 0, \\pm2 ), ( 0, \\pm4 )$ etc. lie in $\\mathtt{R}$ and no odd integer is related to $0$ ,as $( 0, \\pm1 ), ( 0, \\pm3 )$ etc., do not lie in $\\mathrm{\\mathrm{R}}$ . Similarly, all odd integers are related to one and no even integer is related to one. Therefore, the set E of all even integers and the set $\\mathrm{O}$ of all odd integers are subsets of ${\\bf Z}$ satisfying following conditions:\n\n(i) All elements of E are related to each other and all elements of O are related to\neach other.\n(i No clement of E is related to any element of O and vice-versa.\n(ii $\\mathrm{E}$ 1 $\\mathrm{O}$ are disjoint and $\\mathbf{Z}=\\mathrm{E} \\cup\\mathrm{O}.$ \nand",
+    "figures": []
+  },
+  {
+    "chunk_id": "b36969cc-2cd0-4988-8351-d648fae820ba",
+    "chunk": "The subset $\\mathrm{E}$ is called the equivalence class containing zero and is denoted by [0]. Similarly, O is the equivalence class containing 1 and is denoted by [1]. Note that $[ 0 ] \\neq[ 1 ], \\, [ 0 ]=[ 2 r ]$ and $[ 1 ]=[ 2 r+1 ], \\, r \\in{\\bf Z}$ . Infact, what we have seen above is true for an arbitrary equivalence relation $\\mathtt{R}$ in a set $\\mathrm{X}$ . Given an arbitrary equivalence relation $\\mathtt{R}$ in an arbitrary set $\\mathrm{X}$ , R divides $\\mathrm{X}$ into mutually disjoint subsets $\\mathrm{A}_{i}$ called partitions or subdivisions of $\\mathrm{X}$ satisfying:\n\n(i) all elements $\\mathrm{o f \\, A}_{i}$ are related to each other, for all $i.$ (i) no element $\\mathrm{o f \\, A}_{i}$ i l to any element ofA,, i ti.\nis related\n(ii） $\\cup\\mathbf{A}_{j}=\\mathbf{X}$ and $\\mathrm{A}_{i} \\cap\\mathrm{A}_{j}=\\phi, \\: i \\neq j.$ \n\n(i)all elements of $\\mathrm{A}$ , are related to cach other, for $\\mathrm{\\ a l l ~} i.$ \nI",
+    "figures": []
+  },
+  {
+    "chunk_id": "fb737143-f60a-4227-bffc-fc483e44eb6c",
+    "chunk": "(i)all elements of $\\mathrm{A}$ , are related to cach other, for $\\mathrm{\\ a l l ~} i.$ \nI\n\ns $\\mathrm{A}_{i}$ are called equivalence classes. The interesting part of the situation The subsets\nis that we can go reverse also. For example, consider a subdivision of the set ${\\bf Z}$ given by three mutually d $\\mathrm{A}_{1}, \\mathrm{A}_{2}$ and $\\mathrm{A}$ , whose union is ${\\bf Z}$ with\ndisjoint subsets\n\n$$\n\\begin{array} {l} {{\\mathrm{A_{1}=\\{x \\in{\\bf Z} : x ~ i s ~ a ~ m u l t i p l e ~ o f ~ 3 \\}=\\{...,-6,-3, ~ 0, ~ 3, ~ 6,... \\}}}} \\\\ {{\\mathrm{A_{2}=\\{x \\in{\\bf Z} : x-1 ~ i s ~ a ~ m u l t i p l e ~ o f ~ 3 \\}=\\{...,-5,-2, ~ 1, ~ 4, ~ 7,... \\}}}} \\\\ {{\\mathrm{A_{3}=\\{x \\in{\\bf Z} : x-2 ~ i s ~ a ~ m u l t i p l e ~ o f ~ 3 \\}=\\{...,-4,-1, ~ 2, ~ 5, ~ 8,... \\}}}} \\end{array}\n$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "b5a3fdef-06e3-420b-9347-30f3efeb62d1",
+    "chunk": "Define a relation R in ${\\bf z}$ given by $\\mathrm{\\boldmath{R}}=\\{( a, \\, b )$ : 3 divides $a-b \\}$ . Following the arguments similar to those used in Example $5$ , we can show that $\\mathtt{R}$ is an equivalence relation. Also, $\\mathrm{A}$ coincides with the set of all integers in ${\\bf Z}$ which are related to zero, $\\mathrm{A}_{2}$ coincides with the set of all integers which are related to $1$ and $\\mathrm{A}_{{}_{3}}$ coincides with the\nn ${\\bf Z}$ which are related to $2$ . Thus, $\\mathrm{~ A ~}_{1}=[ 0 ], \\, \\mathrm{~ A ~}_{2}=[ 1 ]$ and $\\mathrm{A}_{3}=[ 2 ]$ . set of all integers in\nIn fact, $\\mathrm{A}_{1}=[ 3 r ], \\, \\mathrm{A}_{2}=[ 3 r+1 ]$ and $\\mathrm{A}_{3}=[ 3 r+2 ],$ for all $r \\in{\\bf Z}$ .\na",
+    "figures": []
+  },
+  {
+    "chunk_id": "cea77a55-2f40-40d7-baaf-483075ce218e",
+    "chunk": "Example 6 Let $\\mathtt{R}$ be the relation defined in the set $\\mathrm{A}=\\{1, \\; 2, \\; 3, \\; 4, \\; 5, \\; 6, \\; 7 \\}$ by $\\mathrm{\\boldmath{R}}=\\{( a, \\, b )$ : both ${\\it a}$ and $\\it b$ a l or even}. Show that $\\mathtt{R}$ is an equivalence\nare either odd\n $\\{1, 3, 5, 7 \\}$ are related to each relation. Further, show that all the elements of the subset",
+    "figures": []
+  },
+  {
+    "chunk_id": "41988bb4-f6d1-4bd4-acac-faf3aab918bc",
+    "chunk": "other and all the elements of the subset $\\{2, \\, 4, \\, 6 \\}$ are related to each other, but no element of the subset $\\{1, \\, 3, \\, 5, \\, 7 \\}$ is related to any element of the subset $\\{2, 4, 6 \\}$ . Solution Given any element ${\\it a}$ in $\\mathrm{A}$ , both $a$ and ${\\it a}$ must be cither odd or even, so that $( a, \\, a ) \\in\\mathrm{R}$ . Further, $( a, \\, b ) \\in\\mathrm{R} \\Rightarrow\\mathrm{b o t}$ h $a$ and $\\it b$ must be either odd or even $\\Rightarrow( b, a ) \\in\\mathrm{R}$ . Similarly, $( a, \\, b ) \\in\\mathbb{R}$ and $( b, \\, c ) \\in\\mathrm{R} \\Rightarrow$ all elements $a, \\, b, \\, c$ , must be either even or odd simultaneously $\\Rightarrow( a, c ) \\in\\mathbb{R}$ . Hence, $\\mathrm{\\mathrm{R}}$ is an equivalence relation. Further, all the elements of $\\{1, \\, 3, \\, 5, \\, 7 \\}$ are related to each other, as all the elements of this subset are odd. Similarly, all the elements of the subset $\\{2, 4, 6 \\}$ are related to each other, as all of them are even. Also, no element of",
+    "figures": []
+  },
+  {
+    "chunk_id": "3e040135-1d9b-473a-b848-d1ecdb004304",
+    "chunk": "are related to each other, as all the elements of this subset are odd. Similarly, all the elements of the subset $\\{2, 4, 6 \\}$ are related to each other, as all of them are even. Also, no element of the subset $\\{1, \\, 3, \\, 5, \\, 7 \\}$ can be related to any element of $\\{2, 4, 6 \\}$ , as elements of $\\{1, 3, 5, 7 \\}$ are odd, while elements of $\\{2, 4, 6 \\}$ are even.",
+    "figures": []
+  },
+  {
+    "chunk_id": "6a7e4a47-12ac-4381-8fac-871cad62c0de",
+    "chunk": "## EXERCISE 1.1\n\n1. relations are reflexive, symmetric and\ntransitive:\n\ni) Relation R in the set $\\mathrm{A}=\\{1, \\, 2, \\, 3, \\,..., \\, 1 3, \\, 1 4 \\}$ defined as\n$$\n\\mathrm{R}=\\{( x, y ) : 3 x-y=0 \\}\n$$\ni) Relation R in the set $\\mathbf{N}$ of natural numbers defined as\n$$\n\\mathrm{R}=\\{( x, y ) : y=x+5\n$$\nand $x < 4 \\}$ \n(ii) Relation $\\mathtt{R}$ in the set $\\mathrm{A}=\\{1, \\, 2, \\, 3, \\, 4, \\, 5, \\, 6 \\} \\, \\, \\mathrm{a s}$ ;\n$$\n\\mathrm{R}=\\{( x, y ) : y\n$$\nis divisible by $x \\}$ \n(iv) Relation $\\mathtt{R}$ in the set ${\\bf Z}$ of all integers defined as\n $\\mathrm{R}=\\{( x, y ) : x-y$ is an integer}\n(v)Relation $\\mathtt{R}$ in the set A of human beings in a town at a particular time given by\n(a) R= {(x, ) : x and y work at the same place}\n(b） $\\mathrm{R}=\\{( x, y ) : x$ and y live in the same locality}\n(c) $\\mathrm{R}=\\{( x, y ) : x$ is exactly $7$ cm taller than y}\n(d) $\\mathrm{R}=\\{( x, y ) : x$ is wife of y}\n(e) ${\\mathrm{\\boldmath{R}}}=\\{( x, y )$ : x is father of y}",
+    "figures": []
+  },
+  {
+    "chunk_id": "c81d3aa6-5b64-43af-9a7e-cd80361bfcf2",
+    "chunk": "(i) Relation R in the set $\\mathrm{A}=\\{1, \\, 2, \\, 3, \\,..., \\, 1 3, \\, 1 4 \\}$ defined as\n$$\n\\mathrm{R}=\\{( x, y ) : 3 x-y=0 \\}\n$$\n\n$$\n\\mathrm{R}=\\{( x, y ) : 3 x-y=0 \\}\n$$\n\n(i）Relation $\\mathtt{R}$ in the set $\\mathbf{N}$ of natural numbers defined as\n\n$$\n\\mathrm{R}=\\{( x, y ) : y=x+5 \\mathrm{~ a n d ~} x < 4 \\}\n$$\n\n(ii Relation $\\mathrm{\\mathrm{R}}$ in the set $\\mathrm{A}=\\{1, 2, 3, 4, 5, 6 \\}$ as\n\n$$\n\\mathrm{R}=\\{( x, y ) : y \\mathrm{~ i s ~ d i v i s i b l e ~ b y ~} x \\}\n$$\n\n(iv）Relation $\\mathrm{\\mathrm{R}}$ in the set ${\\bf Z}$ ofall ners efined as\n\n$$\n\\mathrm{R}=\\{( x, y ) : x-y \\mathrm{~ i s ~ a n ~ i n t e g e r} \\}\n$$\n\nRelation $\\mathtt{R}$ in the setA of human given\n\n(a) $\\mathrm{R}=\\{( x, y ) : x$ and y work at the same place} (b） $\\mathrm{R}=\\{( x, y ) : x$ and $\\boldsymbol{y}$ live in the same locality (c) $\\mathrm{R}=\\{( x, y ) : x$ is exactly $7$ cm taller than y} (d) $\\mathrm{R}=\\{( x, y ) : x$ is wife of y}\n(e) ${\\mathrm{R}}=\\{( x, y )$ : $x$ is fatherof y",
+    "figures": []
+  },
+  {
+    "chunk_id": "8edc041d-e65c-4651-a887-eb4ea972f676",
+    "chunk": "$2$ .Show that the relation $\\mathtt{R}$ in the set R of real numbers, defined as\n $\\mathrm{R}=\\{( a, \\, b ) : a \\leq b^{2} \\}$ is neither reflexive nor symmetric nor transitive.\n\n3. Check whether the relation $\\mathtt{R}$ defined in the set $\\{1, 2, 3, 4, 5, 6 \\}$ as\n$$\n\\mathrm{R}=\\{( a, b ) : b=a+1 \\}\n$$\nis reflexive, symeticor tasitive.\n\n4. Show that the relation R in R defined as $\\mathrm{R}=\\{( a, \\, b ) : a \\leq b \\}$ , is reflexive and transitive but not symmetric.\n\n5. Check whether the relation $\\mathtt{R}$ in R defined by $\\mathrm{R}=\\{( a, \\, b ) : a \\leq b^{3} \\}$ is reflexive,\nsymmetric or transitive.\n\n6. Show that the relation R in the set $\\{1, \\, 2, \\, 3 \\}$ given by $\\mathrm{R}=\\{( 1, \\, 2 ), \\, ( 2, \\, 1 ) \\}$ is symmetric but neither reflexive nor transitive.",
+    "figures": []
+  },
+  {
+    "chunk_id": "8226d3f9-4cde-4e69-aeab-929abffce038",
+    "chunk": "6. Show that the relation R in the set $\\{1, \\, 2, \\, 3 \\}$ given by $\\mathrm{R}=\\{( 1, \\, 2 ), \\, ( 2, \\, 1 ) \\}$ is symmetric but neither reflexive nor transitive.\n\n7. Show that the relation $\\mathtt{R}$ in the set $\\mathrm{A}$ of all the books in a library of a college, given by $\\mathrm{R}=\\{( x, y ) : x$ and $\\mathcal{Y}$ have same number of pages} is an cquivalence relation.\n\n8. Show that the relation R in the set $\\mathrm{A} \\!=\\{1, 2, 3, 4, 5 \\}$ given by\n\n $\\mathrm{R}=\\{( a, \\, b ) : | a-b |$ is even}, is an equivalence relation. Show that all the elements of $\\{1, 3, 5 \\}$ are related to each other and all the elements of $\\{2, 4 \\}$ are related to each other. But $\\{1, 3, 5 \\}$ element $\\mathrm{o f ~ \\{2, 4 \\} ~}$ .\nno element of is related to any\n\n9. Sh\n\now that each of the relation R in the set $\\mathrm{A}=\\{x \\in{\\bf Z} : 0 \\leq x \\leq1 2 \\}, \\, \\mathrm{g i v e n ~ b y}$ \n\n(i) $\\mathrm{R}=\\{( a, b ) : | a-b |$ is a multiple of 4} (i $\\mathrm{R}=\\{( a, \\, b ) : a=b \\}$",
+    "figures": []
+  },
+  {
+    "chunk_id": "ae6f38fa-7046-4d0e-a2bd-4289dd71e87d",
+    "chunk": "(i) $\\mathrm{R}=\\{( a, b ) : | a-b |$ is a multiple of 4} (i $\\mathrm{R}=\\{( a, \\, b ) : a=b \\}$ \n\nsan cauiaenerain n t s tofal lemen s tlal t ol inac cas\n\n10. Giv an example of arelation. Which is\n\n(i) Symmetric but neither reflexive nor transitive, lin Transitive but neither reflexive nor symmetric. (in Reflexive and symmetric but not transitive. (iv) Reflexive and transitive but not symmetric. Symmetric and transitive but not reflexive.\n\n11. Show that the relation $\\mathtt{R}$ in the set A of points in a plane given by $\\mathrm{R}=\\{( \\mathrm{P, Q} )$ : distance of the point P from the origin is same as the distance of the\n $\\mathsf{Q}$ from the origin}, is an equivalence relation. Further, show that the set of point\nall points related to a point $\\mathrm{P} \\neq( 0, 0 )$ is the circle passing through $\\mathtt{P}$ with origin as centre.",
+    "figures": []
+  },
+  {
+    "chunk_id": "2b92bf9a-592f-4e1a-b0d3-4718d4f753dc",
+    "chunk": "12. ho wthtre rtiaion eienini nthst fal tingles as $\\mathrm{R}=\\{( \\mathrm{T}_{\\sb1}, \\mathrm{T}_{\\sb2} ) : \\mathrm{T}_{\\sb1}$ is s $\\mathrm{T}_{2} \\}$ , is equivalence relation. Consider three right angle triangles $\\mathrm{T_{1}}$ similar to\nwith sides 3, 4, 5, $\\mathrm{T_{2}}$ with sides ${}_{5}$ , 12, 13 and $\\mathrm{T_{_{3}}}$ with sides 6, $8$ , 10. Which triangles among $\\mathrm{T}_{1}, \\mathrm{T}_{2}$ and $\\mathrm{T_{_{3}}}$ are related?\n\n13. Show that the relation R defined in the set $\\mathrm{A}$ of all polygons as ${\\bf R}=\\{( {\\bf P}_{1}, \\, {\\bf P}_{2} )$  $\\mathrm{P_{1}}$ and P, have same number of sides}, is an equivalence relation. What is the set of all elements in A related to the right angle triangle $\\mathrm{T}$  $3,$ 4 and 5?\nwith sides",
+    "figures": []
+  },
+  {
+    "chunk_id": "c6a037d4-f69e-44c0-b78e-df90d13aca1a",
+    "chunk": "14. Let $\\mathrm{L}$ be the set of all lines in $\\mathrm{X Y}$ plane and $\\mathtt{R}$ be the relation in $\\mathrm{L}$ defined as $\\mathrm{R}=\\{( \\mathrm{L}_{1}, \\mathrm{L}_{2} ) : \\mathrm{L}_{1}$ is parallel to $\\mathrm{L}_{2} \\}$ . Show that $\\mathrm{\\mathrm{R}}$ is an equivalence relation. Find the set of all lines related to the line $y=2 x+4$ .\n\n15. Let R be the relation in the set $\\{1, 2, 3, 4 \\}$ given $\\mathrm{R}=\\{( 1, 2 ), ( 2, 2 ), ( 1, 1 ), ( 4, 4 ),$ \nby\n $( 1, \\, 3 ), \\, ( 3, \\, 3 ), \\, ( 3, \\, 2 ) \\}$ . Choose the correct answer\n\n(A) $\\mathtt{R}$ is reflexive and symmetric but not transitive. (B) $\\mathtt{R}$ is reflexive and transitive but not symmetric (C) $\\mathtt{R}$ is symmetric and transitive but not reflexive (D) $\\mathtt{R}$ is an equivalence relation\n\n16. Let R be the relation in the set $\\mathbf{N}$ given by $\\mathrm{R}=\\{( a, b ) : a=b-2, b > 6 \\}$ . Choose\nthe correct answer.",
+    "figures": []
+  },
+  {
+    "chunk_id": "0d460929-8b01-4840-b638-e8e912ed3d37",
+    "chunk": "16. Let R be the relation in the set $\\mathbf{N}$ given by $\\mathrm{R}=\\{( a, b ) : a=b-2, b > 6 \\}$ . Choose\nthe correct answer.\n\n $\\mathrm{( A )} \\ ( 2, 4 ) \\in\\mathrm{R}$ （B) $( 3, 8 ) \\in\\mathrm{R}$ (C) $( 6, 8 ) \\in\\mathrm{R}$ (D) $( 8, 7 ) \\in\\mathrm{R}$ \n\n## 1.3\n\nThe notion of a function along with some special functions like identity function, constant function, polynomial function, rational function, modulus function, signum function eto along with their graphs have been given in Class $\\mathrm{X I}$ \n\nAddition, subtraction, multiplication and division oftwo functions have also been studied. As the concept of function is of paramount importance in mathematics and among other disciplines as well, we would like to extend our study about function from where we finished carlier. In this section, we would like to study different types of functions.\n\nConsider the functions $f_{1}, f_{2}, f_{3}$ and $f_{4}$ gven ythe folowingdagams",
+    "figures": []
+  },
+  {
+    "chunk_id": "3ece785e-0799-4f7f-9fd7-b1cf1c1f9319",
+    "chunk": "Consider the functions $f_{1}, f_{2}, f_{3}$ and $f_{4}$ gven ythe folowingdagams\n\nIn Fig $1. 2$ , we observe that the images of distinct elements $\\mathrm{o f \\, X_{1}}$ under the function $f_{1}$ namely $\\it b$ distinct, but the image of two distinct elements $1 ~$ and $2$ of $\\mathrm{X_{1}}$ under $f_{2}$ is same are \n. Further, there are some elements like $e$ and $f$ in $\\mathrm{X_{{}_{2}}}$ which are not images of any element of $\\mathrm{X_{1}}$ under $f_{1}$ , while all lements of $\\mathrm{X_{{}_{3}}}$ are images of some elements of $\\mathrm{X}$ under $f_{3}$ . The above observations lead to the following definitions\n\nDefinition 5 A function f: $\\mathrm{X \\! \\to\\!}$ Y is defined to be one-one (or ijective), if the images of distinct elements of $\\mathrm{X}$ under $f$ are distinct, i.e., for every $x_{1}, \\, x_{2} \\, \\in\\, \\mathrm{X}, f ( x_{1} )=f ( x_{2} )$ implies $x_{1}=x_{2}$ . Otherwise, $f$ is called mamy-one",
+    "figures": []
+  },
+  {
+    "chunk_id": "eb4705b2-3bfd-43c9-9eca-24e223c8254f",
+    "chunk": "m上卫业2doa心 $f_{1}$ and $f_{4}$ in i L1 21 and it aec ncon andthe functin $f_{2}$ and $f_{3}$ The\nand (ill) are many-one.\n\nDefinition 1 $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is said to be onto (or surjectve), if every element\n6A function\nof Y is the image of some element of $\\mathrm{X}$ r $f,$ i.e., for every $y \\in\\Upsilon$ , there exists an\nunder\nelement $x$ in $\\mathrm{X}$ such that $f ( x )=y$ .\nin\n\nThe function $f_{3}$ and $f_{4}$ in ig 1.2 i), fiy are oto andte ftnction $f_{1}$ in ig 1.2(i) s not onto as elements $e, \\! f \\mathrm{~ i n ~ X}_{2}$ are not the image of any element in $\\mathrm{X_{1}}$ under $f_{1}$ \n\n![](figures/7-0-FIGURE.jpg)\n\n$$\n\\mathrm{F i g ~ 1. 2 ~ ( i ) ~ t o ~ ( i v )}\n$$\n\nRemark $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is onto if and only if Range ofA Y\n\nDefinition $7$ A function $f \\colon\\mathrm{X \\to Y ~ i s}$ said to be oneon andont or biective, f fis both one-one and onto\n\nThe function $f_{4}$ in ig 12( )ison-one nd ono",
+    "figures": [
+      "figures/7-0-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "55258a31-3721-4884-afb2-30c41ae89de5",
+    "chunk": "Definition $7$ A function $f \\colon\\mathrm{X \\to Y ~ i s}$ said to be oneon andont or biective, f fis both one-one and onto\n\nThe function $f_{4}$ in ig 12( )ison-one nd ono\n\nExample $7$ Let A be the set of all 50 $\\mathrm{X}$ in a school. Let $f \\colon\\mathrm{A} \\to\\mathrm{N}$ be\nstudents of Class\nfunction defined by $f ( x )=\\mathrm{r o l l}$ number of the student $x$ . Show that $f$ is one-one but not onto.\n\nSolution No two different students of the class can have same roll number. Therefore, $f$ must be one-one. We can assume without any loss of generality that roll numbers of students are from 1 to 50. This implies that 51 in Nis not rollnumber of any student of the class, so that 5l can not be image of any element of X under f. Hence, fis not onto.\n\nExample 8 Show that the function $f \\colon\\mathbf{N} \\to\\mathbf{N},$ given $\\operatorname{b y} f ( x )=2 x,$ isone-one but not onto.",
+    "figures": []
+  },
+  {
+    "chunk_id": "752a1d42-efb1-463a-b1c4-4f06914a1706",
+    "chunk": "Example 8 Show that the function $f \\colon\\mathbf{N} \\to\\mathbf{N},$ given $\\operatorname{b y} f ( x )=2 x,$ isone-one but not onto.\n\nSolution The function $f$ is one-one, for $f ( x_{1} )=f ( x_{2} ) \\Rightarrow2 x_{1}=2 x_{2} \\Rightarrow x_{1}=x_{2}.$ Further,\nfor\n $f$ is not onto, as for $1 \\in{\\bf N},$ there does not exist any $x$ in $\\mathbf{N}$ such that $f ( x )=2 x=1$ . Example 9 Prove that thefunction f: $\\mathbf{R} \\to\\mathbf{R}$ ,given $\\operatorname* {b y} f ( x ) \\!=\\! 2 x,$ .is one-one and onto. Solution $f$ is one-one, as $, f ( x_{1} )=f ( x_{2} ) \\Rightarrow2 x_{1}=2 x_{2} \\Rightarrow x_{1}=x_{2}.$  real number y in $\\mathrm{\\mathrm{R}},$ t $\\frac{y} {2}$ in R such that $f ( \\frac{y} {2} )=2 \\dots( \\frac{y} {2} )=y$ . Hence, f is onto.\nthere exists\n\nExample 10 Show that the function $f \\colon\\mathbf{N} \\to\\mathbf{N},$ given $\\mathrm{b y} f ( 1 ) \\!=\\! f ( 2 ) \\!=1 \\mathrm{~ a n d} f ( x ) \\!=\\! x-1,$ for $x > 2$ , is onto but not one-one.\nevery",
+    "figures": []
+  },
+  {
+    "chunk_id": "3e6dc0ad-b9f4-4121-b463-803ea3796884",
+    "chunk": "Example 10 Show that the function $f \\colon\\mathbf{N} \\to\\mathbf{N},$ given $\\mathrm{b y} f ( 1 ) \\!=\\! f ( 2 ) \\!=1 \\mathrm{~ a n d} f ( x ) \\!=\\! x-1,$ for $x > 2$ , is onto but not one-one.\nevery\n\nSolution $f$ is not $f ( 1 )=f ( 2 )=1.$ But fis onto, as given any $y \\in{\\bf N}, y \\neq1,$ \nt one-one, as\nwe can choose $x$ as y+ 1 such that $f ( y+1 )=y+1-1=y$ . Also for $1 \\in{\\bf N},$ we\n $f ( 1 )=1$ .\nhave\n\n![](figures/8-3-FIGURE.jpg)\n\n$$\n\\mathrm{F i g \\ 1. 3}\n$$\n\nExample 11 Show that the function $f$ :R-→R defined $f ( x )=x^{2}$ ,is neither one-one nor onto.\nas\n\nSolution Since $f (-1 )=1=f ( 1 ), f$ is not one-one. Also, the element- $2$ in the co-domain R is not image $\\mathrm{o f \\, \\ a n y}$ element $x$ in the domain $\\mathbf R$ (Why?). 6 $f$ is not onto.\nTherefore\n\nExample $1 2$ Show that $f \\colon\\mathbf{N} \\to\\mathbf{N}$ , given by\n\n$$\nf ( x )=\\begin{array} {l} {\\mathrm{~ x+1, i f ~ x ~ i s ~ o d d,}} \\\\ {\\mathrm{~ x-1, i f ~ x ~ i s ~ e v e n}} \\\\ \\end{array}\n$$",
+    "figures": [
+      "figures/8-3-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "e906a5cf-0402-4b36-91fb-a8810bc544ef",
+    "chunk": "$$\nf ( x )=\\begin{array} {l} {\\mathrm{~ x+1, i f ~ x ~ i s ~ o d d,}} \\\\ {\\mathrm{~ x-1, i f ~ x ~ i s ~ e v e n}} \\\\ \\end{array}\n$$\n\n$$\n\\mathrm{i s ~ b o t h ~ o n e-o n e ~ a n d ~ o n t o.}\n$$\n\n![](figures/8-10-FIGURE.jpg)\n\n$$\n\\mathrm{F i g} ~ 1. 4\n$$",
+    "figures": [
+      "figures/8-10-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "fe2c166c-fe29-40c7-9373-200f641a8c9c",
+    "chunk": "$$\n\\mathrm{i s ~ b o t h ~ o n e-o n e ~ a n d ~ o n t o.}\n$$\n\n![](figures/8-10-FIGURE.jpg)\n\n$$\n\\mathrm{F i g} ~ 1. 4\n$$\n\nSolution Suppose $f ( x_{1} ) \\!=\\! f ( x_{2} )$ . Note that if $x_{1}$ is odd and $x_{2}$ is even, then we will have $x_{1}+1=x_{2}-1, \\mathrm{i. e.,} \\, x_{2}-x_{1}=2$ which is impossible. Similarly, the possibility of $x_{1}$ being even and $x_{2}$ being odd can also be ruled out, using the similar argument. Therefore both $x_{1}$ and $x_{2}$ must be either odd or even. Suppose both $x_{1}$ and $x_{2}$ are odd. Then $2 r+1$  $f ( x_{1} )=f ( x_{2} ) \\Rightarrow x_{1}+1=x_{2}+1 \\Rightarrow x_{1}=x_{2}.$ Similarly, if both $f$ is one-one. Also, any od umber\n $x_{1}$ and $x_{2}$ are even, then also $f ( x_{1} )=f ( x_{2} ) \\Rightarrow x_{1}-1=x_{2}-1 \\Rightarrow x_{1}=x_{2}.$ Tneoan $\\mathbf{N}$ and any even number\nin the co-domain N is the image of $2 r+2$ \n $2 r$ in the co-domain $\\mathbf{N}$ is the image of $2 r-1$ in the domain N. Thus, f is onto.",
+    "figures": [
+      "figures/8-10-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "99854572-359d-43a6-9758-f9ed689d0d73",
+    "chunk": "13 Show that an onto func $\\operatorname{t i o n} f \\colon\\{1, 2, 3 \\} \\to\\{1, 2, 3 \\}$ is always one-on\n\nExamplk\n\nSolution $f$ is not one-one. Then there exists two elements, say $1 ~$ and ${}_{2}$ in the\nSuppose\ndomain whose image in the co-domain is same. Also, the image of 3 under $f$ can be only one element. Therefore, the range set can have at the most two elements of the co-domain $\\{1, 2, 3 \\}$ , showing that $f$ is not onto, a contradiction. Hence, f must be one-one..\ni\n\ne 14 Show that a one-one functior $\\mathrm{n} f \\colon\\{1, 2, 3 \\} \\to\\{1, 2, 3 \\} \\ \\mathrm{m u s t \\, b e ~ o r}$ ito Example\n\nSolution Since $f$ is one-one, three elements of fl, 2, 3} must be taken to 3 different elements of the co-domain $\\{1, 2, 3 \\}$ under $f$  Hence, fhas to be onto.",
+    "figures": []
+  },
+  {
+    "chunk_id": "f3b50cf5-f44a-4075-a318-67c6fe5c88fd",
+    "chunk": "Solution Since $f$ is one-one, three elements of fl, 2, 3} must be taken to 3 different elements of the co-domain $\\{1, 2, 3 \\}$ under $f$  Hence, fhas to be onto.\n\nRemark The results mentioned in Examples 13 and 14 are also true for an arbitrary finite set $\\mathrm{X}$ , i.e., a one-one $f \\colon\\mathrm{X} \\to\\mathrm{X}$ is necessarily onto and an onto map\nfunction\n $f \\colon\\mathrm{X} \\to\\mathrm{X}$ is necessarily one-one, for every finite set $\\mathrm{X}.$ In contrast to this, Examples 8 and 10 show that for an infinite set, this may not be true. In fact, this is a characteristic difference between a finite and an infinite set.\n\n## EXERCISE 1.2\n\n1. Show that the function $f \\colon\\mathbf{R}_{*} \\to\\mathbf{R}$  efined $\\operatorname{s y} f ( x )=\\frac{1} {x}$ is one-one and onto. where $\\mathbf{R}$  is the set of all non-zero real numbers. Is the result true, if the domain $\\mathbf{R}$ is replaced by N with co-domain being same as $\\mathbf{R}$ ?\n:",
+    "figures": []
+  },
+  {
+    "chunk_id": "ecfa35f6-7571-4a8b-85c3-4f163e5ca02c",
+    "chunk": "2chck neiniei anufiri fnfoloming fntions:\n\n() $f \\colon\\bf{N} \\to\\bf{N}$ given by $f ( x )=x^{2}$ (i) $f \\colon{\\bf Z} \\to{\\bf Z}$ given by $f ( x )=x^{2}$ if:R-→R given by $f ( x )=x^{2}$ (iv) $f \\colon\\mathbf{N} \\to\\mathbf{N}$  $f ( x )=x^{3}$ \ngiven by\n(v) $f \\colon{\\bf Z} \\to{\\bf Z}$ g $f ( x )=x^{3}$ \ngiven by\n\n3. Prove that the Greatest Integer Function $f \\colon\\mathbf{R} \\to\\mathbf{R}$ , given $\\operatorname* {b y} f ( x )=[ x ],$ is neither one-one nor onto, where [x] denotes the greatest integer less than or equal to $x$ . 4. Show that the Modulus Function $f \\colon\\mathbf{R} \\to\\mathbf{R}$ , given $\\operatorname* {b y} f ( x )=| \\, x \\, |,$ is neither one-one nor onto, where $\\mid x \\mid$ is $x$ if $x$ is positive or $0$ and $| x | \\mathrm{~ i s ~-x ~,}$ if $x$ is negative.\n\n5. Showt Signum Function $f \\colon\\mathbf{R} \\to\\mathbf{R}$ ,given by\nthat the",
+    "figures": []
+  },
+  {
+    "chunk_id": "3c31fa3a-1bd2-4503-a08b-4fae6a63a28a",
+    "chunk": "5. Showt Signum Function $f \\colon\\mathbf{R} \\to\\mathbf{R}$ ,given by\nthat the\n\n$$\nf \\left( x \\right)=\\left\\{\\begin{matrix} {1, \\mathrm{i f} \\, \\, \\, x > 0} \\\\ {0, \\mathrm{i f} \\, \\, \\, x=0} \\\\ {1, \\mathrm{i f} \\, \\, \\, x < 0} \\\\ \\end{matrix} \\right.\n$$\n\n$$\n\\mathrm{i s ~ n e i t h e r ~ o n e-o n e ~ n o r ~ o n t o.}\n$$\n\n6. Let $\\mathrm{A}=\\{1, 2, 3 \\}$ . $\\mathrm{B}=\\{4, \\, 5, \\, 6, \\, 7 \\}$ and let $f=\\{( 1, 4 ), ( 2, 5 ), ( 3, 6 ) \\}$ function\nbe a\nfrom A to $\\mathrm{B}$ . Show that $f$ is one-one.\n\n7. In each of the following cases, state whether the function is one-one, onto or bijective. Justify your answer\n\n(ü $f \\colon\\mathbf{R} \\to\\mathbf{R}$  $\\operatorname{b y} f ( x )=3-4 x$ \ndefined\n(i $f \\colon\\mathbf{R} \\to\\mathbf{R}$ defined by $f ( x )=1 ~+x^{2}$ \n\n8. Let $\\mathrm{A}$ and $\\mathrm{B}$ be sets. Show $\\mathrm{t h a t} \\, f \\colon\\mathrm{A} \\times\\mathrm{B} \\to\\mathrm{B} \\times\\mathrm{A} \\, ;$ such that $f ( a, \\, b )=( b, \\, a )$ is bijective function.",
+    "figures": []
+  },
+  {
+    "chunk_id": "57144754-6086-43b8-801b-408b75da0e63",
+    "chunk": "9.Le $f \\colon\\mathbf{N} \\to\\mathbf{N}$ be definea $\\mathrm{b y} \\, f ( n )=\\left\\{\\begin{aligned} {} & {{} \\frac{n+1} {2}, \\mathrm{i f} ~ n ~ \\mathrm{i s ~ o d d}} \\\\ {} & {{} \\frac{n} {2}, \\mathrm{i f} ~ n ~ \\mathrm{i s ~ e v e n}} \\\\ \\end{aligned} \\right.$ EN\n\nState whether the function siecie. Judif you rnse\n\n10. Let $\\mathrm{A}=\\mathrm{R}-\\{3 \\}$ and $\\mathbf{I B}=\\mathbf{R}-\\{1 \\}$ . Consider the function $f \\colon\\mathrm{A} \\to\\mathrm{B}$ defined by $f ( x )=\\left( \\frac{x-2} {x-3} \\right).$ ls fone-one and onto? Justify your answer\n\n11. $\\mathrm{L e t} \\, f \\colon\\mathbf{R} \\to$ R be defined as $f \\! ( x )=x^{4}$ . Choose the correct answer.\n\n(A) fis one-one onto (B) $f$ is many-one onto\n1S\n(C) fis one-one but not onto D $f$ is neither one-one nor onto.\n\n12. Let $f \\colon\\mathbf{R} \\to\\mathbf{R}$ be defined as $f ( x )=3 x$ . Choose the correct answer\n\n(A) fis one-one onto (B) $f$ is many-one onto\n(O $f$ is one-one but not onto (D) $f$ is neither one-one nor onto ## 1.4",
+    "figures": []
+  },
+  {
+    "chunk_id": "2b6048c4-56f1-4b14-8bfa-a75216623162",
+    "chunk": "(A) fis one-one onto (B) $f$ is many-one onto\n(O $f$ is one-one but not onto (D) $f$ is neither one-one nor onto ## 1.4\n\nDefinition 8 Let $f \\colon\\mathrm{A} \\to\\mathrm{B}$ and $g : \\mathrm{B} \\to\\mathrm{C}$ be two functions. Then the composition of $f$ and $g$ , denoted by gof, is defined as the function $g o f \\colon\\mathrm{A} \\to\\mathrm{C}$ given by\n\n$$\ng o f ( x )=g ( f ( x ) ), ~ \\forall~ x \\in{\\mathrm{A}}.\n$$\n\n![](figures/11-3-FIGURE.jpg)\n\n$$\n\\mathrm{F i g} \\ 1. 5\n$$\n\nExample 15 1 $\\mathrm{e t} \\, f \\colon\\{2, 3, 4, 5 \\} \\to\\{3, 4, 5, 9 \\} \\, \\, \\mathrm{a n d} \\, \\, g : \\{3, 4, 5, 9 \\} \\to$ {7, 11, 15} be functions defined as $f ( 2 )=3, f ( 3 )=4, f ( 4 )=~ f ( 5 )=5$ and $g \\left( 3 \\right)=g \\left( 4 \\right)=7$ and $g ( 5 )=~ g ( 9 )=1 1$ . Find $g o f$",
+    "figures": [
+      "figures/11-3-FIGURE.jpg"
+    ]
+  },
+  {
+    "chunk_id": "14e6d3db-6a62-4a16-91fc-13373014257a",
+    "chunk": "CAd 家adN\n$$\n\\begin{array} {l} {{g o f ( 2 )=\\ g \\left( f ( 2 ) \\right)=g \\left( 3 \\right)=7, \\ g o f ( 3 )=\\ g \\left( f ( 3 ) \\right)=g \\left( 4 \\right)=\\frac{1} {2}}} \\\\ {{g \\left( 5 \\right)=1 1 \\mathrm{~ a n d ~} g o f ( 5 )=\\ g \\left( 5 \\right)=1 1.}} \\end{array}\n$$\n7,\nhave\ng0f(4)=\n\nExample 16 Find gof and $f o g, \\, \\mathrm{i f} \\, f \\colon\\mathbf{R} \\to\\mathbf{R}$ and $g : \\mathbf{R} \\to\\mathbf{R}$ are given by $f ( x )=\\operatorname{c o s}.$ X and $g ( x )=3 x^{2}$ . Show that $g o f \\neq f o g$ -\n\nSolution We have g $\\mathit{r o f} ( x )=\\mathit{r o f} ( f ( x ) )=\\mathit{r o f} ( \\operatorname{c o s} \\, x )=3 \\ ( \\operatorname{c o s} \\, x )^{2}=3$ cos? $x$ .Similarly. fog(x)=f(g(x))= f(3x2) cos (3.x?). Note that 3cos? $x \\neq$ cos $3 x^{2}$ , for $x=0$ . Hence,\n$$\ng o f \\neq f o g.\n$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "e0e9cf99-6e62-4b12-bef8-aa68726a3d05",
+    "chunk": "Definition $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is defined to be invertible, if there exists a function\nn 9 A function\n $g : \\Upsilon\\to\\mathrm{X}$ such that $g o f \\!=\\mathrm{I}_{\\mathrm{X}} \\mathrm{~ a n d} \\, f o g=\\mathrm{I}_{\\mathrm{Y}}$ . The function $g$ is called the inverse $o f f$ and is denoted $\\mathrm{b y} \\, f^{-1}$ \n\nThus, if $f$ is invertible, then $f$ must be one-one and onto and conversely,if $f$ is one-one and onto, then $f$ imust be invertible. This fact significantly helps for proving\n1 $f$ to be invertible by showing that $f$ is one-one and onto, specially when the function\nactual inverse of $f$ is not to be determined.",
+    "figures": []
+  },
+  {
+    "chunk_id": "fc9022cc-a47d-4337-a650-2e3a33f45aa5",
+    "chunk": "Example $1 7 \\, \\mathrm{L e t} f \\colon\\bf{N} \\to\\bf{Y}$ be a function defined as $f ( x )=4 x+3$ , where,\n $\\mathrm{Y}=\\{y \\in\\bf{N} \\colon y=4 x+3 \\}$ for some $x \\in{\\bf N} \\}$ . Show that $f$ is invertible. Find the inverse. Solution Consider an arbitrary element $\\boldsymbol{y}$ of $\\mathrm{Y}$ By the definition of $\\Upsilon, \\, y=4 x+3,$ . for some $x$ in the domain $\\mathbf{N}$ . This shows that $x=\\frac{( y-3 )} {4}$ . Define $g : \\mathrm{Y} \\to\\mathrm{N}$ by\n\n$$\ng \\left( y \\right)=\\frac{\\left( y-3 \\right)} {4}. \\, \\mathrm{N o w}, \\, g o f ( x )=g \\left( f ( x ) \\right)=g \\left( 4 x+3 \\right)=\\frac{\\left( 4 x+3-3 \\right)} {4}=x \\, \\mathrm{~ a n d}\n$$\n\n$$\n\\log\\left( y \\right)=\\! f \\! \\left( g \\left( y \\right) \\right)=\\! f \\! \\left( \\frac{\\left( y-3 \\right)} {4} \\right)=\\! \\frac{4 \\left( y-3 \\right)} {4}+3=y-3+3=y. \\, \\mathrm{T}\n$$\nhis shows that $g o f \\!=\\! \\mathrm{I_{N}}$ \nand $f o g=\\mathrm{I}_{\\mathrm{Y}},$ which implis that $f$ is ivertibl an $g$ iste inves of $f$ :",
+    "figures": []
+  },
+  {
+    "chunk_id": "729726e9-2e6c-4489-8a06-6b7ec6d2c9a1",
+    "chunk": "## Miscellaneous Examples\n\nESO国eN1EaE $\\mathrm{\\mathrm{R}}_{1}$ and $\\mathrm{\\mathrm{R}}_{2}$ are equivalence relations in a set $\\mathrm{A}$ , show that $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2} \\mathrm{i s}$ 5 an equivalence relation.",
+    "figures": []
+  },
+  {
+    "chunk_id": "a902869d-592d-4780-9733-3516432fbf2c",
+    "chunk": "Solution Since $\\mathrm{\\mathrm{R}}_{1}$ and $\\mathrm{\\mathrm{R}}_{2}$ are equivalence relations, $( a, a ) \\in\\mathbb{R}_{1}$ , and $( a, a ) \\in\\mathrm{R}, \\ \\forall\\ a \\in\\mathrm{A}$ . This implies that $( a, \\, a ) \\in\\textup{R}_{1} \\cap\\textup{R}_{2}, \\ \\forall\\ a,$ . showing $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ is reflexive. Further $( a, \\, b ) \\in\\mathrm{R}_{1} \\cap\\mathrm{R}_{2} \\Rightarrow( a, \\, b ) \\in\\mathrm{R}_{1}$ and $( a, b ) \\in\\mathrm{R}_{2} \\Rightarrow( b, a ) \\in\\mathrm{R}_{1}$ and $( b, \\, a ) \\in\\mathrm{R}_{2} \\Rightarrow$  $( b, \\, a ) \\in\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ , hence, $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ is symmetric. Similarly, $( a, \\, b ) \\in\\mathrm{~ R}_{1} \\cap\\mathrm{~ R}_{2}$ and $( b, \\, c ) \\in\\mathrm{R}_{\\i} \\cap\\mathrm{R}_{\\i} \\Rightarrow( a, \\, c ) \\in\\mathrm{R}_{\\i}$ and $( a, \\, c ) \\in\\mathrm{R}_{2} \\Rightarrow( a, \\, c ) \\in\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ . This shows that $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ is transitive. Thus,",
+    "figures": []
+  },
+  {
+    "chunk_id": "481e3e9b-a2e9-4fec-a80e-84b1fc4f5235",
+    "chunk": "\\, c ) \\in\\mathrm{R}_{\\i}$ and $( a, \\, c ) \\in\\mathrm{R}_{2} \\Rightarrow( a, \\, c ) \\in\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ . This shows that $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$ is transitive. Thus, $\\mathrm{R}_{1} \\cap\\mathrm{R}_{2}$",
+    "figures": []
+  },
+  {
+    "chunk_id": "1adc130d-6592-421c-b113-7a4a53e76bc7",
+    "chunk": "is an equivalence relation",
+    "figures": []
+  },
+  {
+    "chunk_id": "f4631f84-c762-4f2c-9816-b4f10387ef01",
+    "chunk": "Example 19 Let $\\mathtt{R}$ be a relation on the set A of ordered pairs of positive integers defined $\\operatorname{b y} {( x, y )} \\operatorname{R} {( u, v )}$ if and only if $x v=y u.$ Show that R is an equivalence relation,\n\nSolution Clearly $\\mathrm{~, ~} ( x, y ) \\mathrm{~ R ~} ( x, y ), \\mathrm{~} \\vee( x, y ) \\in\\mathrm{~ A ~, ~ s i n c e ~} x y=y x. \\mathrm{~ T h}$ is shows that $\\mathtt{R}$ is reflexive. Further $, ( x, y ) \\textup{R} ( u, v ) \\Rightarrow x v=y u \\Rightarrow u y=v x \\otimes$ nd hence $( u, v ) \\textsc{r r} ( x, y )$ . This shows that R is symmetric. Similarly, $( x, y ) \\textrm{R} ( u, v )$ and $\\left( u, v \\right) \\textsc{r} ( a, b ) \\Rightarrow x v=y u$ and\n\n $u b=v a \\Rightarrow x v \\, \\frac{a} {u}=y u \\frac{a} {u} \\Rightarrow x v \\frac{b} {v}=y u \\frac{a} {u} \\Rightarrow x b=y a$ and hence $( x, y ) \\textsc{r r} ( a, b )$ Thus, R is transitive. Thus, $\\mathtt{R}$ is an equivalence relation",
+    "figures": []
+  },
+  {
+    "chunk_id": "7f43c6ed-7c45-4843-9dc7-6e4acc091f1a",
+    "chunk": "Example 20 I $\\mathrm{L e t ~ X}=\\{1, \\; 2, \\; 3, \\; 4, \\; 5, \\; 6, \\; 7, \\; 8, \\; 9 \\}$ . Let $\\mathrm{\\mathrm{R}}_{1}$ be a relation in $\\mathrm{X}$ given by $\\mathrm{R}_{1}=\\{( x, y ) : x-y \\}$ is divisible by $3 \\}$ and $\\mathrm{\\mathrm{R}}_{2}$ be another relation on $\\mathrm{X}$ given by $\\mathrm{R}_{2}=\\{( x, y ) \\colon\\{x, y \\} \\subset\\{1, 4, 7 \\} \\}$ or $\\{x, y \\} \\subset\\{2, 5, 8 \\}$ or $\\{x, y \\} \\subset\\{3, 6, 9 \\} \\}$ . Show that $\\mathbf{R}_{1}=\\mathbf{R}_{2}$",
+    "figures": []
+  },
+  {
+    "chunk_id": "cdd6ad25-5b82-4633-a52d-6781e9133301",
+    "chunk": "Solution Note that the characteristic of sets $\\{1, ~ 4, ~ 7 \\}, ~ \\{2, ~ 5, ~ 8 \\}$ and $\\{3, \\, 6, \\, 9 \\}$ is that difference between any two elements of these sets is a multiple of $3$ . Therefore $( x, y ) \\in\\mathrm{R}_{\\i} \\Rightarrow x-y$ is a multiple of $3 \\Rightarrow\\{x, y \\} \\subset\\{1, \\, 4, \\, 7 \\}$ or $\\{x, y \\} \\subset\\{2, \\, 5, \\, 8 \\}$ or $\\{x, y \\} \\subset\\{3, 6, 9 \\} \\Rightarrow( x, y ) \\in\\mathrm{R}_{2}$ . Hence, $\\mathrm{R}_{1} \\subset\\mathrm{R}_{2}$ . Similarly, $\\{x, y \\} \\in\\mathrm{R}_{2} \\Rightarrow\\{x, y \\}$  $\\subset\\{1, \\, 4, \\, 7 \\}$ or $\\{x, \\, y \\} \\, \\subset\\, \\{2, \\, 5, \\, 8 \\}$ or $\\{x, \\, y \\} \\subset\\{3, \\, 6, \\, 9 \\} \\Rightarrow x-y$ is divisible by $3 \\Rightarrow\\{x, y \\} \\in\\mathbb{R}_{1}$ . This shows that $\\mathrm{R}_{2} \\subset\\mathrm{R}_{1}$ . Hence, $\\mathbf{R}_{1}=\\mathbf{R}_{2}.$",
+    "figures": []
+  },
+  {
+    "chunk_id": "1c7de115-27d8-4186-8ed3-17114d662af2",
+    "chunk": "Example 21 $\\mathrm{L e t} f \\colon\\mathrm{X} \\to\\mathrm{Y}$ be a function. Define a relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{X}$ given by\n$$\n\\mathrm{R}=\\{( a, \\, b ) ; f \\! ( a )=\\! f \\! ( b ) \\}\n$$\n. Examine whether R is an equivalence relation or not\n\nSolution For every $a \\in\\mathrm{X}, ( a, a ) \\in\\mathrm{R},$ s $f ( a )=f ( a ),$ .s that $\\mathtt{R}$ is reflexive\nsince showing\nSimilarly, $( a, \\, b ) \\in\\mathrm{R} \\Rightarrow f ( a )=f ( b ) \\Rightarrow f ( b )=f ( a ) \\Rightarrow$ (b, a) e R. Therefore, $\\mathtt{R}$ is symmetric. Further, $( a, \\, b ) \\in\\mathrm{R}$ and $( b, \\, c ) \\in\\mathrm{R} \\Rightarrow\\! f ( a )=\\! f ( b )$ and $f ( b )=f ( c ) \\Rightarrow f ( a )$  $= f ( c ) \\Rightarrow( a, \\, c ) \\in\\mathrm{R}$ , which implies that $\\mathtt{R}$ is transitive. Hence, $\\mathrm{\\mathrm{R}}$ is an equivalence relation.\n\n22 Find the number of all onc-one functions from set $\\mathrm{A}=\\{1, 2, 3 \\}$ to itse\n\nExample",
+    "figures": []
+  },
+  {
+    "chunk_id": "e577253a-0965-4dae-838f-85583f4ac96c",
+    "chunk": "22 Find the number of all onc-one functions from set $\\mathrm{A}=\\{1, 2, 3 \\}$ to itse\n\nExample\n\nSolution One-one function from $\\{1, \\, 2, \\, 3 \\}$ to itself is simply a permutation on three symbols $1, \\, 2, \\, 3$ . Therefore, total number of one-one maps from $\\{1, \\, 2, \\, 3 \\}$ to itself is same as total number of permutations on three symbols $1, 2, 3$ which is 3 $\\d1=6$ .\n\nExample 23 Let $\\mathrm{A}=\\{1, 2, 3 \\}$ . Then show that the number of relations containing $( 1, 2 )$ and $( 2, 3 )$ which are reflexive and transitive but not symmetric is three.",
+    "figures": []
+  },
+  {
+    "chunk_id": "e58166ec-a129-44f0-9899-4b47a7eb6f81",
+    "chunk": "Solution The smallest relation $\\mathtt{R}$ containing $\\c{g} \\; ( 1, 2 )$ and $( 2, 3 )$ which is reflexive and transitive but not symmetric is $\\{( 1, 1 ), ( 2, 2 ), ( 3, 3 ), ( 1, 2 ), ( 2, 3 ),$ (1, 3)}. Now, if we add the pair $( 2, \\, 1 )$ to $\\mathtt{R}$ to get R,, then the relation $\\mathrm{\\mathrm{R}},$ will be reflexive, transitive but not symmetric. Similarly, we can obtain R, by $\\mathrm{a d d i n g \\, ( 3, 2 ) \\, t o ~ R_{1} ~}$ to get the desired relation. However, we can not add two pairs $( 2, 1 ), ( 3, 2 )$ or single pair $( 3, 1 )$ to $\\mathrm{\\mathrm{R}}_{1}$ at a time, as by doing so, we will be forced to add the remaining pair in order to maintain transitivity and in the process, the relation will become symmetric also which is not required. Thus, the total number of desired relations is three.\n\nExample 24 Show that the number of equivalence relation in the set $\\{1, 2, 3 \\}$ containing $( 1, 2 )$ and $( 2, 1 )$ is two",
+    "figures": []
+  },
+  {
+    "chunk_id": "f3d0130a-6fe6-41c7-9201-64332d0e2002",
+    "chunk": "Example 24 Show that the number of equivalence relation in the set $\\{1, 2, 3 \\}$ containing $( 1, 2 )$ and $( 2, 1 )$ is two\n\nSolution The smallest equivalence relation $\\mathrm{\\mathrm{R}}$ containing $( 1, 2 )$ and $( 2, \\, 1 )$ is $\\{( 1, 1 )$  $( 2, \\, 2 ), \\, ( 3, \\, 3 ), \\, ( 1, \\, 2 ), \\, ( 2, \\, 1 ) \\}$ . Now we are left with only $4 ~$ pairs namely $( 2, \\, 3 ), \\, ( 3, \\, 2 ),$  $( 1, 3 )$ and $( 3, \\, 1 )$ . If we add any one, say $( 2, 3 )$ to $\\mathrm{\\mathrm{R}}_{1}$ , then for symmetry we must add $( 3, 2 )$ also and now for transitivity we are forced to add $( 1, 3 )$  $( 3, 1 )$ . Thus, the only\na and\nequivalence relation bigger than $\\mathrm{\\mathrm{R}}_{1}$ is the universal relation. This shows that the total\ng $( 1, 2 )$ and $( 2, 1 )$ is two.\nnumber of equivalence relations containing",
+    "figures": []
+  },
+  {
+    "chunk_id": "4f4467be-a4c7-4971-b510-0320593cfa76",
+    "chunk": "Example 25 Consider the identity function $\\mathrm{I_{N}} : \\bf{N} \\to\\bf{N}$ defined as $\\mathrm{I}_{\\mathrm{N}} \\left( x \\right)=x \\, \\left. \\forall\\, x \\in\\, \\mathrm{N}. \\right.$ Show that although $\\mathrm{I_{N}}$ is onto but $\\mathrm{I_{N}+I_{N} : N \\to N}$ defined as\n\n$$\n\\left( \\mathrm{I}_{\\mathrm{N}}+\\mathrm{I}_{\\mathrm{N}} \\right) \\left( x \\right)=\\mathrm{I}_{\\mathrm{N}} \\left( x \\right)+\\mathrm{I}_{\\mathrm{N}} \\left( x \\right)=x+x=2 x \\mathrm{~ i s ~ n o t ~ o n t o}.\n$$\n\nSonCenCeamr $\\mathrm{I_{N}}$ is onto. But $\\mathrm{I_{N}+I_{N}}$ is not onto, as we can find an element 3 the co-domain $\\mathbf{N}$ such that there does not exist any $x$ in the domain $\\mathbf{N}$ with $\\left( \\mathrm{I_{N}}+\\mathrm{I_{N}} \\right) ( x )=2 x=3.$",
+    "figures": []
+  },
+  {
+    "chunk_id": "ec95f8ea-836a-4888-b2c9-82341211b73a",
+    "chunk": "Example 26 Consider a\n$$\n\\mathrm{f u n c t i o n} ~ f : \\left[ 0, \\frac{\\pi} {2} \\right] \\! \\to\\! \\mathrm{~ R ~ g i v e n ~ b y ~} f ( x )=\\operatorname{s i n} ~ x ~ \\mathrm{a n d}\n$$\n1\n $\\left[ 0, \\frac{\\pi} {2} \\right] \\to{\\bf R}$ given by $g ( x )=\\operatorname{c o s}$ x. Show that $f$ and $g$ are one-one, but $f+g$ is not one-one.\n\nSolution Since for any two distinct elements $x_{1}$ and x, in T sin x,zsin $x_{2}$ and\n2\ncos $x_{1} \\neq\\operatorname{c o s} \\, x_{2}$ , both $f$ and $g$  $( f+g ) ~ ( 0 )=\\operatorname{s i n} ~ 0+\\operatorname{c o s} ~ 0=1$ and\nmust be one-one. But\n $( f+g ) \\! \\left( \\frac{\\pi} {2} \\right)=\\, \\operatorname{s i n} \\frac{\\pi} {2}+\\operatorname{c o s} \\frac{\\pi} {2} \\!=\\! 1$ .Therefore $f+g$ is notone-one\n\n$$\n\\begin{matrix} \\rho_{0} \\rho_{0}=\\rho_{0}^{\\circ} \\\\ \\rho_{0}^{\\circ} \\rho_{0}^{\\circ} \\end{matrix}\n$$\n\n## Misellanous Exercie onChagter 1",
+    "figures": []
+  },
+  {
+    "chunk_id": "485bea8c-ff9b-4e12-b575-5b3dbc50c5d1",
+    "chunk": "$$\n\\begin{matrix} \\rho_{0} \\rho_{0}=\\rho_{0}^{\\circ} \\\\ \\rho_{0}^{\\circ} \\rho_{0}^{\\circ} \\end{matrix}\n$$\n\n## Misellanous Exercie onChagter 1\n\n1. Show that the function f: R\n$$\n\\rightarrow\\{x \\in\\mathbf{R} :-\\, 1 < x < 1 \\} \\, \\mathrm{d e f i n e d \\, b y} \\, \\, f ( x ) \\!=\\! \\frac{x} {1 \\!+\\! \\mid x \\mid} \\,,\n$$\n $x \\in{\\bf R}$ is one one and onto function",
+    "figures": []
+  },
+  {
+    "chunk_id": "f98ab012-6b63-4ed5-bbd9-b38391d08617",
+    "chunk": "1. Show that the function $\\i f : \\mathbf{R} \\to\\{x \\in\\mathbf{R} :-1 \\! < \\! x \\! < \\! 1 \\}$ defined by $f ( x )=\\frac{\\alpha} {1+\\left\\vert x \\right\\vert}$  $x \\in{\\bf R}$ is one one and onto function.\n $2$ . Show that the function $f \\colon\\mathbf{R} \\to\\mathbf{R}$ given $\\operatorname* {b y} f ( x )=x^{3}$ is injective.\n3. Given a non empty set $\\mathrm{X}$ , consider $\\mathrm{P ( X )}$ which is the set of all subsets of $\\mathrm{X}$ . Define the relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{P ( X )}$ as follows:\nFor subsets $\\mathrm{A}$ , B in $\\mathrm{P ( X )}$ , ARB if and only if $\\mathrm{A} \\subset\\mathrm{B}$ . Is $\\mathtt{R}$ an equivalence relation on $\\mathrm{P} ( \\mathrm{X} )?$ Justify your answer.",
+    "figures": []
+  },
+  {
+    "chunk_id": "5fab4126-473f-4ed8-ba3b-01ef2caa8800",
+    "chunk": "For subsets $\\mathrm{A}$ , B in $\\mathrm{P ( X )}$ , ARB if and only if $\\mathrm{A} \\subset\\mathrm{B}$ . Is $\\mathtt{R}$ an equivalence relation on $\\mathrm{P} ( \\mathrm{X} )?$ Justify your answer.\n4. Find the number of all onto functions from the set $\\{1, 2, 3,...., n \\}$ to itself. 5. Let $\\mathrm{A}=\\{-\\, 1, \\, 0, \\, 1, \\, 2 \\}, \\, \\mathrm{B}=\\{-\\, 4, \\,-\\, 2, \\, 0, \\, 2 \\}$ and $f, g : \\mathrm{A} \\to\\mathrm{B}$ be functions defined by $f ( x )=x^{2}-x, \\, x \\, \\in\\, \\mathrm{A}$ and $g ( x )=2 \\left| \\right| x-\\frac{1} {2} |-1, \\ x \\, \\in\\, \\mathrm{A}. \\ \\mathrm{A r e} \\,.$ f and $g$ equal? Justify your answer. (Hint: One may note that two functions $f \\colon\\mathrm{A} \\to\\mathrm{B}$ and $g : \\mathrm{A} \\to\\mathrm{B}$ such that $f ( a )=g ( a ) \\, \\, \\forall\\, a \\in\\mathrm{A}$ , are called equal functions).",
+    "figures": []
+  },
+  {
+    "chunk_id": "79f7aa80-340a-497c-9178-ce197a1d30cd",
+    "chunk": "2. Show that the\n$$\n\\mathrm{f u n c t i o n} \\, f \\colon\\mathbf{R} \\to\\mathbf{R} \\mathrm{~ g i v e n ~ b y} \\, f ( x )=x^{3} \\mathrm{~ i s ~ i n j e c t i v e}.\n$$\n\n3.Given a non empty t $\\mathrm{X}$ ,consider $\\mathrm{P ( X )}$ which is the set of all subsets of $\\mathrm{X}$ .\nset\nDefine the relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{P ( X )}$ as follows\nFor subsets $\\mathrm{A}$ , $\\mathrm{B}$ in $\\mathrm{P ( X )}$ ,ARB if and onlyif $\\mathrm{A} \\subset\\mathrm{B}$ . Is $\\mathrm{\\mathrm{R}}$ an equivalence relation on $\\mathrm{P ( X )?}$ Justify your answer\n\n4. Find the number ofall onto functions from the set $\\{1, 2, 3,...., n \\}$ to itself",
+    "figures": []
+  },
+  {
+    "chunk_id": "92f3fd4f-fc5d-449e-a2a0-805ef4e61132",
+    "chunk": "4. Find the number ofall onto functions from the set $\\{1, 2, 3,...., n \\}$ to itself\n\n5. Let $\\mathrm{A} \\!=\\! \\{-\\, 1, \\, 0, \\, 1, \\, 2 \\}, \\, \\mathrm{B} \\!=\\! \\{-\\, 4, \\,-\\, 2, \\, 0, \\, 2 \\}$ and $f, g : \\mathrm{A} \\to\\mathrm{B}$ be functions defined by $f ( x )=x^{2}-x, \\; x \\, \\in\\, \\mathrm{A}$ and $g ( x )=2 \\left| . x-\\frac{1} {2} \\right|-1, \\ x \\in\\mathrm{A. ~ A r e}$  $f$ and $g$ equal? Justify your answer. (Hint: One may note that two functions $f \\colon\\mathrm{A} \\to\\mathrm{B}$ and $g : \\mathrm{A} \\to\\mathrm{B}$ such that $f ( a )=g ( a ) \\, \\, \\forall\\, a \\in\\mathrm{A}$ , are called equal functions)\n\n6。 $\\mathrm{L e t \\, A}=\\{1, 2, 3 \\}$ . Then number of relations containing $( 1, 2 )$ and (1, 3) which are reflexive and symmetric but not transitive is",
+    "figures": []
+  },
+  {
+    "chunk_id": "ff8a59a5-80d6-42ff-8bee-6fbab72c92fe",
+    "chunk": "(A) 1\n$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "662d575b-2ddb-4275-ba2c-6cf4dcdc62a4",
+    "chunk": "3 ) ~ 2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 3 2 \\ 3 2 \\ 3 2 \\ 7 3} \\ 7 2 \\ 7 2 \\ 7 2 \\ 7 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad3 3 3 3 3 3 2 \\quad3 3 2 \\quad3 3 3 2 \\quad3 3 3 2 \\quad3 3 3 2 \\quad3 3 3 3 2 \\quad3 3 3 3 2 \\quad3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3",
+    "figures": []
+  },
+  {
+    "chunk_id": "08c3106b-bec1-4108-abed-99563c2592d0",
+    "chunk": "3 3 2 \\quad3 3 3 3 2 \\quad3 3 3 3 2 \\quad3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3",
+    "figures": []
+  },
+  {
+    "chunk_id": "4cbc23b7-c568-4259-a0dc-da1007a04bf8",
+    "chunk": "$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "c9158727-b65b-43ca-87cf-60621505cca5",
+    "chunk": "7. Let $\\mathrm{A}=\\{1, 2, 3 \\}$ .Then number feuivalecerelaions containing $( 1, 2 )$ is",
+    "figures": []
+  },
+  {
+    "chunk_id": "13b6dba2-c714-4fb8-960e-c6c62894e1f8",
+    "chunk": "(A)\n$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "ce4c085f-b95a-457e-874b-5a216972a8c3",
+    "chunk": "( \\mathrm{B} ) ~ 2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 7 \\ 7 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 7 \\ 7 7 7 7 \\ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+    "figures": []
+  },
+  {
+    "chunk_id": "3dcb831d-5848-4604-a29e-599c3c2c2d50",
+    "chunk": "\\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 \\ 7 7 \\ 7 7 7 7 \\ 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 \\ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+    "figures": []
+  },
+  {
+    "chunk_id": "eab54e45-2afe-44bd-afaa-60f6facfa282",
+    "chunk": "$$",
+    "figures": []
+  },
+  {
+    "chunk_id": "981cfb82-f112-4deb-8e57-33bb38c8f46d",
+    "chunk": "## Sumary\n\nIn this chapter, we studied different types of relations and equivalence relation composition of functions, invertible functions and binary operations. The main features of this chapter are as follows:",
+    "figures": []
+  },
+  {
+    "chunk_id": "60182be5-edda-4589-aac0-21ca6ade8074",
+    "chunk": "Empty relation is the relation $\\mathtt{R}$ in $\\mathrm{X}$ given by $\\mathrm{R}=\\phi\\subset\\mathrm{X} \\times\\mathrm{X}.$ \nUniversal relation is the relation $\\mathtt{R}$ in $\\mathrm{X}$ given by $\\mathbf{R}=\\mathbf{X} \\times\\mathbf{X}.$ \nReflexive relation $\\mathtt{R}$ in $\\mathrm{X}$ \n$$\n( a, a ) \\in\\textsc{R} \\forall a \\in\\mathrm{X}\n$$\nis a relation withn\nSymmetric relation $\\mathtt{R}$ in $\\mathrm{X}$ is a relation satisfying $( a, b ) \\in\\mathbb{R}$ implies $( b, a ) \\in\\mathbb{R}.$ Transitive relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{X}$ is $\\mathrm{a}$ relation satisfying $( a, b ) \\in\\mathbb{R}$ and $( b, c ) \\in\\mathrm{R}$ implies that $( a, c ) \\in\\mathbb{R}$ .\nEquivalence relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{X}$ is a relation which is reflexive, symmetric and transitive.",
+    "figures": []
+  },
+  {
+    "chunk_id": "430d9426-3ad6-41c5-b26c-73458213a69c",
+    "chunk": "Equivalence relation $\\mathrm{\\mathrm{R}}$ in $\\mathrm{X}$ is a relation which is reflexive, symmetric and transitive.\n $E q$ uivalence class $[ a ]$ containing $a \\in X \\mathrm{~ f o r ~}$ an equivalence relation $\\mathtt{R}$ in $\\mathrm{X}$ is the subset of $\\mathrm{X}$ containing all elements $\\it b$ related to ${\\it a}$ .\n $\\emptyset$  $\\mathrm{A}$ function $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is one-one (or injective) if\n $f ( x_{\\i} )=f ( x_{\\i} ) \\Rightarrow x_{\\i}=x_{\\i} \\, \\, \\forall\\, \\, \\, x_{\\i}, \\, x_{\\i} \\in X.$ \n $( )$  $\\mathrm{A}$ function $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is onto (or surjective) if given any $y \\in\\Upsilon, \\exists~ x \\in\\mathrm{X}$ such that $f ( x )=y$ .\n $( )$  $\\mathrm{A}$ function $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is one-one and onto (or $b i j$ ective), if fis both one-one and onto.",
+    "figures": []
+  },
+  {
+    "chunk_id": "f87e412c-774a-4c2f-9c8a-46d12a1a2ffc",
+    "chunk": "$( )$  $\\mathrm{A}$ function $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is one-one and onto (or $b i j$ ective), if fis both one-one and onto.\n $\\emptyset$ Given $\\mathrm{a}$ finite set $\\mathrm{X, ~ a}$ function $f \\colon\\mathrm{X} \\to\\mathrm{X}$ is one-one (respectively onto) if and only $\\mathrm{i f} f \\mathrm{i s}$ onto (respectively one-one). This is the characteristic property of a finite set. This is not true for infinite set",
+    "figures": []
+  },
+  {
+    "chunk_id": "4724766c-07ce-4445-b9ee-66798eabd598",
+    "chunk": "A function $f \\colon\\mathrm{X} \\to\\mathrm{Y}$ is one-one and onto | $b$ iectivey, if $f$ is both one-one\n(Or\nand onto.\n\nGiven a finite set $\\mathrm{X, ~ a}$ f n $f \\colon\\mathrm{X} \\to\\mathrm{X}$ is one-one (respectively onto) if and\nfunction\nonly $\\mathrm{i f} f \\mathrm{i s}$ onto (respectively onc-one). This is the characteristic property of a finite set. This is not true for infinite set\n\n## Historical Note",
+    "figures": []
+  },
+  {
+    "chunk_id": "a6533bbf-4683-48a8-9fdd-5a0a28aac41e",
+    "chunk": "The concept of function has evolved over a long period of time starting from $\\mathtt{R}$ . Descartes $( 1 5 9 6-1 6 5 0 )$ , who used the word function' in his manuscript \"Geometri $e^{\\eta}$ in 163 $7$ to mean some positive integral power $x^{n}$ of a variable $x$ while studying geometrical curves like hyperbola, parabola and ellipse. James Gregory $( 1 6 3 6-1 6 7 5 )$ in his work \" Vera Circuli et Hyperbolae Quadratura\" $( 1 6 6 7 )$ considered function as a quantity obtained from other quantities by successive use $\\mathrm{o f}$ algebraic operations or by any other operations. Later G. $\\mathbf{W}$ . $\\mathbf{I}$ .eibnitz (1646-1716) in his manuscript \"Methodus tangentium inversa, seu de finctionibus'\" written in 1673 used the word function' to mean a quantity varying from point to point on a curve such as the coordinates $\\mathrm{o f}$ a point on the curve, the slope $\\mathrm{o f}$ the curve, the tangent and the normal to the curve at a point. However, in his manuscript",
+    "figures": []
+  },
+  {
+    "chunk_id": "5fc45beb-c1b8-4580-ae50-ee2e4563a352",
+    "chunk": "to point on a curve such as the coordinates $\\mathrm{o f}$ a point on the curve, the slope $\\mathrm{o f}$ the curve, the tangent and the normal to the curve at a point. However, in his manuscript \"Historia'\" $( 1 7 1 4 )$ , Leibnitz used the word function' to mean quantities that depend on a variable. He was the first to use the phrase function $\\mathrm{o f \\,} x \"$ . John Bernoulli $( 1 6 6 7 \\!-\\! 1 7 4 8 )$ used the notation ox for the first timein $1 7 1 8$ to indicate a function of $x$ . But the general adoption of symbols like.f, F, d, w ... to represent functions was made by Leonhard Euler $( 1 7 0 7-1 7 8 3 )$ in 1734 in the first part of his manuscript \"Analysis Infinitorium\". Later on, Joeph Louis Lagrange $( 1 7 3 6 \\!-\\! 1 8 1 3 )$ published his manuscripts \"Theorie des functions analytiques\" in $1 7 9 3,$ where he discussed about analytic function and used the notion $f ( x ), \\mathrm{F} ( x ),$  $\\phi( x )$ etc. for different function of $x$ . Subsequently, Lejeunne",
+    "figures": []
+  },
+  {
+    "chunk_id": "0c11c3b8-6585-4960-8cca-bfe174ab8a4f",
+    "chunk": "analytiques\" in $1 7 9 3,$ where he discussed about analytic function and used the notion $f ( x ), \\mathrm{F} ( x ),$  $\\phi( x )$ etc. for different function of $x$ . Subsequently, Lejeunne Dirichlet $( 1 8 0 5-1 8 5 9 )$ gave the definition $\\mathrm{o f}$ function which was being used $\\mathrm{t i l l}$ the set theoretic definition of function presently used, was given after set theory was developed by Georg Cantor (1845-1918). The set theoretic definition of function known to us presently is simply an abstraction of the definition given by Dirichlet in a rigorous manner.",
+    "figures": []
+  }
+]

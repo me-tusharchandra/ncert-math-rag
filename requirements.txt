@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+opencv-python
+paddleocr
+requests 
+python-poppler # do brew install poppler on macOS
+paddlepaddle
+pdfplumber
