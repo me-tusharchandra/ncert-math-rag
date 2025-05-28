@@ -1,6 +1,8 @@
-# NCERT RAG (Retrieval Augmented Generation)
+# NCERT RAG (Retrieval Augmented Generation) [Demo](https://youtu.be/lpT0yCPR4x4)
 
 This project implements a semantic search system for NCERT textbook content using Qdrant vector database and sentence transformers. It processes markdown files containing textbook content, including text and image references, and enables semantic search across the content.
+
+![Demo](demo.gif)
 
 ## Project Structure
 
